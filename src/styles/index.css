@@ -8,3 +8,31 @@ span {
 li:hover span {
 	opacity: 1.0;
 }
+
+.large-title {
+    font-size: 3.5rem;
+    color: rgb(233, 216, 216);
+    font-family: "Roboto", sans-serif;
+  }
+
+  .square-input {
+    border-radius: 0; /* Set border-radius to 0 to make corners square */
+  }
+
+  body {
+    background-color: rgb(245,245,245);
+  }
+
+  .post-it1 {
+    background-color: white;
+    width: 380px;
+    margin: auto;
+    height: 8px;
+  }
+
+  .post-it2 {
+    background-color: white;
+    width: 370px;
+    margin: auto;
+    height: 8px;
+  }
